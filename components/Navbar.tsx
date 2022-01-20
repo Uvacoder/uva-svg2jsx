@@ -33,7 +33,7 @@ const Navbar = () => {
           outline: 'none',
         }}
         isExternal
-        href="https://github.com/JanaSundar/svg2jsx"
+        href="https://github.com/uvacoder/svg2jsx"
         textAlign="center"
       >
         <Image
